@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1958" started-at="2023-03-14T17:48:20 EDT" finished-at="2023-03-14T17:48:22 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1958" started-at="2023-03-14T17:48:20 EDT" finished-at="2023-03-14T17:48:22 EDT">
+      <class name="day2.WaysToCreatePostRequestBody">
+        <test-method status="PASS" signature="testPostUsingHashmap()[pri:0, instance:day2.WaysToCreatePostRequestBody@7a9273a8]" name="testPostUsingHashmap" duration-ms="1925" started-at="2023-03-14T17:48:20 EDT" finished-at="2023-03-14T17:48:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUsingHashmap -->
+      </class> <!-- day2.WaysToCreatePostRequestBody -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
